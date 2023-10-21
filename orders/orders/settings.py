@@ -127,3 +127,5 @@ REST_FRAMEWORK = {
         'user': '1000/day'
     }
 }
+
+
